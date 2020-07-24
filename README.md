@@ -1,3 +1,4 @@
+<img align="right" src="https://raw.githubusercontent.com/Storywriterbooks/storywriterbooks/master/my_character%20(2).svg"/>
 <h2 align="center">Hi there 👋</h2>
 
 <details>
